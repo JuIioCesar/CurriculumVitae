@@ -30,7 +30,7 @@ Developed iOS applications and frameworks for ViveClaro’s products. Responsibl
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Making an impact on millions of users every release. Julio started giving support to the clients’ apps current features using Kanban methodology and sustain tech meetings with the offshore client. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. His overall experience includes working with engineers from the US, China, Colombia, Argentina and Uruguay. Using and teaching the Gitflow workflow is part of the daily basis. Code review
+Making an impact on millions of users every release. Julio started giving support to the clients’ apps current features using Kanban methodology and sustain tech meetings with the offshore client. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. His overall experience includes working with engineers from the US, China, Colombia, Argentina and Uruguay. Using and teaching the Gitflow workflow is part of the daily basis.
 
 ### Achievements
 **Runner up winner**
