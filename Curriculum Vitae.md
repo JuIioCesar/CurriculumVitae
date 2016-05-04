@@ -51,8 +51,11 @@ An application to let your friends know you are safe during a catastrophe
 
 ### Education
 Computer Engineering at National Autonomous University of Mexico.
+
 Enrolled on the John Hopkins University Data Science Specialization on Coursera
+
 Video game design diploma course at National Autonomous University of Mexico.
+
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 ### Skills
