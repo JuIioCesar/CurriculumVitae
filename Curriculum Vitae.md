@@ -37,7 +37,7 @@ Making an impact on millions of users every release. Julio started giving suppor
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
 
-[**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) ** - 2014**
+[**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
 
 _Swarm intelligence in your fingers._ Featured on the AppStore when first released. This application was developed with the first version of SpriteKit before GameplayKit was released, using Twitter API.
 
