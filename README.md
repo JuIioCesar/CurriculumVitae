@@ -14,7 +14,7 @@ Computer engineer looking to develop experience in data science and mobile proje
 ### Experience
 **iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
 
-Developed numerous iOS applications that included features such as augmented reality, using REST services. Gave iOS tech talks at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM FI open source organization](https://github.com/unamfi).
+Developed numerous iOS applications that included features such as augmented reality, using REST services. Gave iOS tech talks at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi).
 
 **iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
 
