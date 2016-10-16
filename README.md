@@ -9,7 +9,7 @@
 ****
 
 ### Profile
-Computer engineer looking to develop experience in data science and mobile projects. Julio is passionate about mathematics and computer science. Jumping into new projects and building his own tools are part of his daily work. He´s looking for scholarship opportunities to make his master's degree.
+Computer engineer looking to develop experience in data science and mobile projects. Passionate about mathematics and computer science. Jumping into new projects and building his own tools are part of his daily work. He´s looking for scholarship opportunities to make his master's degree.
 
 ### Experience
 **iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
@@ -22,15 +22,15 @@ Sold and developed an application that tracked the beer production process on a 
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
-Developed an iOS application for a big entertainment company in Mexico.
+Developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) for TV Azteca.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
-Developed iOS applications and frameworks for ViveClaro’s products. Responsible for quality assurance, unit testing, repository management, and the software architecture.
+For Vive Claro´s products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)´s functionalities. He managed the code quality, end the repositories inside the mobile area of the company.
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Making an impact on millions of users every release. Julio started giving support to the clients’ apps current features using Kanban methodology and sustain tech meetings with the offshore client. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. His overall experience includes working with engineers from the US, China, Colombia, Argentina and Uruguay. Using and teaching the Gitflow workflow is part of the daily basis.
+Making an impact on millions of users every release. Julio started making new features and giving support to the clients’ apps current features using Kanban methodology while sustaining tech talks with the offshore client. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. His overall experience includes working with engineers from the US, China, Colombia, Argentina and Uruguay. Using and teaching the Gitflow workflow is part of the daily basis. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application.   
 
 ### Achievements
 **Runner up winner**
