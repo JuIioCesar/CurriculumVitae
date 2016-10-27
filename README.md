@@ -9,12 +9,12 @@
 ****
 
 ### Profile
-Computer engineer looking to develop experience in data science and mobile projects. Passionate about mathematics and computer science. Jumping into new projects and building his own tools are part of his daily work. He´s looking for scholarship opportunities to make his master's degree.
+Julio is an action driven engineer with one mission: Give great value to his clients.
 
 ### Experience
 **iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
 
-Developed numerous iOS applications that included features such as augmented reality, using REST services. Gave iOS tech talks at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi).
+Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and trecking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
 
 **iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
 
