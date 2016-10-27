@@ -30,12 +30,14 @@ For Vive Claro´s products Julio developed an iOS framework to using the real ti
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Making an impact on millions of users every release. Julio started making new features and giving support to the clients’ apps current features using Kanban methodology while sustaining tech talks with the offshore client. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. His overall experience includes working with engineers from the US, China, Colombia, Argentina and Uruguay. Using and teaching the Gitflow workflow is part of the daily basis. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application.   
+On this job Julio started making an impact on millions of users every release. With new features on the way and giving support to the alredy existing ones using Kanban methodology was an easy task. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings.
 
 ### Achievements
 **Runner up winner**
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
+
+Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketers at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions. Julio along with Francia performed a great pitch that impressed the judges and they decide to give us the prize for runner up winner at the Masters of Code hackathon in Mexico City. 
 
 [**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
 
