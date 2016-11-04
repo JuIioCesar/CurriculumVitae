@@ -78,7 +78,7 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 **Xcode:**
 - [Xcode-Lex](https://github.com/unamfi/Xcode-Lex)
-- [Xcode-Lex](https://github.com/unamfi/Xcode-Jess)
+- [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
 
 **Favorite tools**
