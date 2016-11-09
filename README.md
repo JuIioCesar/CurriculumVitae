@@ -2,7 +2,7 @@
 
 **Mobile Phone**: +525516859129
 
-**Github**: juiiocesar
+**Github**: [juiiocesar](http://github.com/juiiocesar)
 
 **e-mail**: julio.guzman@me.com
 
