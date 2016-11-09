@@ -30,7 +30,7 @@ For Vive Claro´s products Julio developed an iOS framework to using the real ti
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. With new features on the way and giving support to the alredy existing ones using Kanban methodology was an easy task. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
+On this job Julio started making an impact on millions of users every release. With new features on the way while giving support to the alredy existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
 
 ### Achievements
 **Runner up winner**
