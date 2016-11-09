@@ -18,11 +18,11 @@ Julio started in iOS developing numerous applications that included features lik
 
 **iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
 
-Sold and developed an application that tracked the beer production process on a world class factory.
+As a freelance he sold and developed an application that tracked the beer production process on a world class factory.
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
-Developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) for TV Azteca.
+While he was on-site with the client. Julio developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) according to the client's specification.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
@@ -30,7 +30,7 @@ For Vive Claro´s products Julio developed an iOS framework to using the real ti
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. With new features on the way and giving support to the alredy existing ones using Kanban methodology was an easy task. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings.
+On this job Julio started making an impact on millions of users every release. With new features on the way and giving support to the alredy existing ones using Kanban methodology was an easy task. During the first year he performed test driven development and shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
 
 ### Achievements
 **Runner up winner**
