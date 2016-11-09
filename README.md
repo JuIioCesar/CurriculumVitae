@@ -12,25 +12,25 @@
 Julio is an action driven engineer with one mission: Give great value to his clients.
 
 ### Experience
-**iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
+**iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and trecking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
-
-**iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
-
-As a freelance he sold and developed an application that tracked the beer production process on a world class factory.
-
-**iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
-
-While he was on-site with the client. Julio developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) according to the client's specification.
+On this job Julio started making an impact on millions of users every release. With new features on the way while giving support to the alredy existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
 For Vive Claro´s products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)´s functionalities. He managed the code quality, end the repositories inside the mobile area of the company.
 
-**iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
+**iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
-On this job Julio started making an impact on millions of users every release. With new features on the way while giving support to the alredy existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
+While he was on-site with the client. Julio developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) according to the client's specification.
+
+**iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
+
+As a freelance he sold and developed an application that tracked the beer production process on a world class factory.
+
+**iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
+
+Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and trecking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
 
 ### Achievements
 **Runner up winner**
