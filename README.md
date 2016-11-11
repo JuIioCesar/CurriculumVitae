@@ -14,7 +14,7 @@ Julio is an action driven engineer with one mission: Give great value to his cli
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. With new features on the way while giving support to the alredy existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
+On this job Julio started making an impact on millions of users every release. He started developing new features while giving support to the already existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
