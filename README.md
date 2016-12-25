@@ -14,7 +14,7 @@ Julio is an action driven engineer with one mission: Give great value to his cli
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. He started developing new features while giving support to the already existing ones using Kanban methodology. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
+On this job Julio started making an impact on millions of users every release. Being pragmatic and being able to work in schedule are one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
@@ -83,5 +83,11 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 **Favorite tools**
 [Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [Charles](https://www.charlesproxy.com), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
+
+**Favorite Books**
+
+The pragmatic programmer: From Journeyman to Master. 
+
+Refactoring: Improving the design of existing code.
 
 ****
