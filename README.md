@@ -30,7 +30,7 @@ As a freelance he sold and developed an application that tracked the beer produc
 
 **iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
 
-Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and trecking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
+Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and tracking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
 
 ### Achievements
 **Runner up winner**
