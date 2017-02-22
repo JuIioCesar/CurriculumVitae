@@ -14,11 +14,11 @@ Julio is an action driven engineer with one mission: Give great value to his cli
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. Being pragmatic and being able to work in schedule are one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client´s application. Working at Globant has been an adventure full of challenges and learnings. 
+On this job Julio started making an impact on millions of users every release. Being pragmatic and being able to work in schedule are one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Working at Globant has been an adventure full of challenges and learnings. 
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
-For Vive Claro´s products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)´s functionalities. He managed the code quality, end the repositories inside the mobile area of the company.
+For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)'s functionalities. He managed the code quality, end the repositories inside the mobile area of the company.
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
