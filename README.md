@@ -44,7 +44,7 @@ Julio took the leadership of a team integrated of 2 iOS developers, 1 web develo
 
 _Swarm intelligence in your fingers._ Featured on the AppStore when first released. This application was developed with the first version of SpriteKit before GameplayKit was released, using Twitter API.
 
-[**UNAM FI's Open Source organization**](https://github.com/unamfi)
+[**UNAM FI's Open Source organization**](https://github.com/unamfi) **- 2014**
 
 While studying Julio founded the biggest open source organization in his school. The project is currently mantained by [Juan Pablo Flores](https://github.com/juanpflores/) a Github campus expert.    
 
