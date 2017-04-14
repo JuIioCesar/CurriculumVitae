@@ -14,11 +14,11 @@ Julio is an action driven engineer with one mission: Give great value to his cli
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. Being pragmatic and being able to work in schedule are one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Working at Globant has been an adventure full of challenges and learnings. 
+On this job Julio started making an impact on millions of users every release. Being a pragmatic programmer and being able to work with legacy code one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Working at Globant has been an adventure full of challenges and learnings.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
-For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)'s functionalities. He managed the code quality, end the repositories inside the mobile area of the company.
+For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)'s features. He managed the code quality, end the repositories inside the mobile area of the company.
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
@@ -39,9 +39,14 @@ At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mex
 
 Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketers at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions. Julio along with Francia performed a great pitch that impressed the judges and they decide to give us the prize for runner up winner at the Masters of Code hackathon in Mexico City. 
 
+### Personal projects
 [**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
 
 _Swarm intelligence in your fingers._ Featured on the AppStore when first released. This application was developed with the first version of SpriteKit before GameplayKit was released, using Twitter API.
+
+[**UNAM FI's Open Source organization**](https://github.com/unamfi)
+
+While studying Julio founded the biggest open source organization in his school. The project is currently mantained by [Juan Pablo Flores](https://github.com/juanpflores/) a Github campus expert.    
 
 [**Flock - Twitter Client**](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8) **- 2013**
 
@@ -60,7 +65,7 @@ Video game design diploma course at National Autonomous University of Mexico.
 
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
-### Skills
+### Other interesting repositories
 **Artificial Intelligence:**
 - [Non-dominated Sorting Genetic Algorithm](https://github.com/unamfi/NSGA-II)
 - [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8)
@@ -89,5 +94,7 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 The pragmatic programmer: From Journeyman to Master. 
 
 Refactoring: Improving the design of existing code.
+
+
 
 ****
