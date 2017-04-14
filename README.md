@@ -87,7 +87,7 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
 
 **Favorite tools**
-[Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [Charles](https://www.charlesproxy.com), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
+[Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
 
 **Favorite Books**
 
