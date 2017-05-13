@@ -9,12 +9,12 @@
 ****
 
 ### Profile
-Julio is an action driven engineer with one mission: Give great value to his clients.
+Julio is an software engineer first and iOS specialist second with one mission: Give great value to his clients.
 
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On this job Julio started making an impact on millions of users every release. Being a pragmatic programmer and being able to work with legacy code one of Julio's best abilities. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Working at Globant has been an adventure full of challenges and learnings.
+On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Julio was responsible of the tracking and the onboarding implementations on the iOS side. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. Being a pragmatic programmer and being able to work effectively with legacy code are some of Julio's best abilities.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
@@ -95,6 +95,6 @@ The pragmatic programmer: From Journeyman to Master.
 
 Refactoring: Improving the design of existing code.
 
-
+Introduction to algorithms
 
 ****
