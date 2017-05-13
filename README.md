@@ -14,7 +14,7 @@ Julio is an software engineer first and iOS specialist second with one mission: 
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-On the second year he started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. Julio was responsible of the tracking and the onboarding implementations on the iOS side. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. Being a pragmatic programmer and being able to work effectively with legacy code are some of Julio's best abilities.
+Over the past year Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He was responsible of the tracking and the onboarding implementations on the iOS side. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. Being a pragmatic programmer and being able to work effectively with legacy code are some of Julio's best abilities.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
