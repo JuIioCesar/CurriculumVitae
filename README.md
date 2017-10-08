@@ -14,15 +14,38 @@ Julio is an software engineer first and iOS specialist second with one mission: 
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Over the past year Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He was responsible of the tracking and the onboarding implementations on the iOS side. During the first year shadowed the team leader in retrospective and tech meetings on site and off shore. Being a pragmatic programmer and being able to work effectively with legacy code are some of Julio's best abilities.
+Julio has sound experience in software development and 7 years developing iOS applications. He's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
+
+In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
+
+Some of his responsibilities inside Globant are: 
+
+- Task Estimation.
+- Code review peers code.
+- Direct U.S. client exposure.
+- Give tech talks inside Globant.
+- Build and propose new features.
+- Propose business cases to the client.
+- Share company culture with team mates.
+- Contribute on open and closed source proyects.
+- Define architecture strategies and implementations.
+- Propose innovative solutions to current technical problems.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
-For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to this [repository](https://github.com/durfu/DFURTSPPlayer)'s features. He managed the code quality, end the repositories inside the mobile area of the company.
+For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to the [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)'s features. He managed the code quality, end the repositories inside the mobile area of the company.
+
+Related App: 
+
+- [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
-While he was on-site with the client. Julio developed a [news application](https://itunes.apple.com/us/app/cimm/id844331719?mt=8) according to the client's specification.
+Worked on-site with a mexican client. Julio developed a news application according to the client's specification.
+
+App: 
+
+- [Centro Integral de Monitoreo de Medios](https://itunes.apple.com/us/app/cimm/id844331719?mt=8)
 
 **iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
 
@@ -31,6 +54,11 @@ As a freelance he sold and developed an application that tracked the beer produc
 **iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
 
 Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and tracking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
+
+Apps:
+
+- [Congreso Universitario Móvil - Telcel](https://itunes.apple.com/ru/app/congreso-universitario-movil/id716260362?l=en&mt=8)
+- [Descarga Cultura UNAM](https://itunes.apple.com/mx/app/descarga-cultura-unam/id950397556?mt=8)
 
 ### Achievements
 **Runner up winner**
@@ -63,7 +91,16 @@ Enrolled on the John Hopkins University Data Science Specialization on Coursera
 
 Video game design diploma course at National Autonomous University of Mexico.
 
+### Certifications 
+
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
+
+Scrum Fundamentals Certified by Scrum Study
+
+### Open Source Contributions
+
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+- [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
 ### Other interesting repositories
 **Artificial Intelligence:**
@@ -86,9 +123,6 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 - [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
 
-**Favorite tools**
-[Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
-
 **Favorite Books**
 
 The pragmatic programmer: From Journeyman to Master. 
@@ -96,5 +130,8 @@ The pragmatic programmer: From Journeyman to Master.
 Refactoring: Improving the design of existing code.
 
 Introduction to algorithms
+
+**Favorite tools**
+[Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
 
 ****
