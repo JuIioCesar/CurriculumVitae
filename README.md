@@ -118,6 +118,9 @@ Scrum Fundamentals Certified by Scrum Study
 - [Spatial Filtering](https://github.com/unamfi/Spatial-Filtering)
 - [Human eye performance notebook](https://github.com/unamfi/Human-eye-performance)
 
+**Data Science**
+- [Berkeley's Renewable Energy and Appropriate Laboratory Application](https://github.com/JuIioCesar/Renewable-Energy-and-Appropriate-Laboratory)
+
 **Xcode:**
 - [Xcode-Lex](https://github.com/unamfi/Xcode-Lex)
 - [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
