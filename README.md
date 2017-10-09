@@ -81,10 +81,6 @@ While studying Julio founded the biggest open source organization in his school.
 
 Developed before SpriteKit was released. This is the version 1.0 of Twitterminal
 
-[**Protección Civil**](https://itunes.apple.com/us/app/proteccion-civil/id548931594?mt=8) **- 2012**
-
-An application to let your friends know you are safe during a catastrophe
-
 ### Education
 Computer Engineering at National Autonomous University of Mexico.
 
