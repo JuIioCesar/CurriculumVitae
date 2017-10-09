@@ -62,7 +62,7 @@ Apps:
 - [Mis AviSOS](https://apps.unam.mx/mis-avisos-2/)
 
 ### Achievements
-**Runner up winner**
+**Runner up winner, Mexico City — 2015**
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
 
