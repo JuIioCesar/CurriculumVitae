@@ -20,16 +20,16 @@ In the year 2015 Julio contributed to a world class e-commerce application that 
 
 Some of his responsibilities inside Globant are: 
 
-- Task Estimation.
-- Code review peers code.
-- Direct U.S. client exposure.
-- Give tech talks inside Globant.
-- Build and propose new features.
-- Propose business cases to the client.
-- Share company culture with team mates.
-- Contribute on open and closed source proyects.
-- Define architecture strategies and implementations.
 - Propose innovative solutions to current technical problems.
+- Define architecture strategies and implementations.
+- Contribute on open and closed source proyects.
+- Share company culture with team mates.
+- Propose business cases to the client.
+- Build and propose new features.
+- Give tech talks inside Globant.
+- Direct U.S. client exposure.
+- Code review peers code.
+- Task Estimation.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
