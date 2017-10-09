@@ -9,7 +9,7 @@
 ****
 
 ### Profile
-Julio is an software engineer first and iOS specialist second with one mission: Give great value to his clients.
+Julio is a software engineer first and iOS specialist second with one mission: Give great value to his clients.
 
 ### Experience
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
