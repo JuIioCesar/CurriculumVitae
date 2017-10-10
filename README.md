@@ -20,6 +20,15 @@ In the year 2015 Julio contributed to a world class e-commerce application that 
 
 Some of his responsibilities inside Globant are: 
 
+Julio has sound experience in software development and 7 years developing iOS applications. He's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
+
+In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.
+
+Some of his responsibilities inside Globant are:
+
+- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers
+- Conduct technical reviews, audit projects and ensure best practices are followed.
+- Participate in the hiring and interviewing process of technical profiles.
 - Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
 - Contribute on open and closed source proyects.
@@ -28,7 +37,6 @@ Some of his responsibilities inside Globant are:
 - Build and propose new features.
 - Give tech talks inside Globant.
 - Direct U.S. client exposure.
-- Code review peers code.
 - Task Estimation.
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
