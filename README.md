@@ -18,12 +18,6 @@ Julio has sound experience in software development and 7 years developing iOS ap
 
 In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
 
-Some of his responsibilities inside Globant are: 
-
-Julio has sound experience in software development and 7 years developing iOS applications. He's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
-
-In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.
-
 Some of his responsibilities inside Globant are:
 
 - Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers
