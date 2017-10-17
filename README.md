@@ -20,18 +20,18 @@ In the year 2015 Julio contributed to a world class e-commerce application that 
 
 Some of his responsibilities inside Globant are:
 
-- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers
-- Conduct technical reviews, audit projects and ensure best practices are followed.
-- Participate in the hiring and interviewing process of technical profiles.
 - Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
 - Contribute on open and closed source proyects.
-- Share company culture with team mates.
-- Propose business cases to the client.
 - Build and propose new features.
-- Give tech talks inside Globant.
-- Direct U.S. client exposure.
+- Conduct technical reviews, audit projects and ensure best practices are followed.
 - Task Estimation.
+- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers
+- Participate in the hiring and interviewing process of technical profiles.
+- Propose business cases to U.S. clients.
+- Give tech talks inside Globant.
+- Share company culture with team mates.
+
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
