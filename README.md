@@ -32,6 +32,14 @@ Some of his responsibilities inside Globant are:
 - Give tech talks inside Globant.
 - Share company culture with team mates.
 
+**iOS Developer, [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017**
+
+
+**iOS Developer, [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com) - [Close5](https://itunes.apple.com/us/app/close5-buy-sell-stuff-locally/id910559026?mt=8), Mexico City — 2015 - 2016**
+
+
+**iOS Developer, [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com), Mexico City — 2014 - 2015** 
+
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
 
