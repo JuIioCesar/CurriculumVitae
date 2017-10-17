@@ -134,6 +134,10 @@ Refactoring: Improving the design of existing code.
 
 Introduction to algorithms
 
+Working effectively with legacy code
+
+Clean Architecture
+
 **Favorite tools**
 [Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
 
