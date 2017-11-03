@@ -98,6 +98,8 @@ Enrolled on the John Hopkins University Data Science Specialization on Coursera
 
 Video game design diploma course at National Autonomous University of Mexico.
 
+Scrum Marter Certified by Scrum Study.
+
 ### Certifications 
 
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
