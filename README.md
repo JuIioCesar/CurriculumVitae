@@ -1,4 +1,4 @@
-
+![Softtek](https://rawgit.com/JuIioCesar/CurriculumVitae/blob/companies/Softtek/Assets/softtek.png)
 
 ## Julio César Guzmán Villanueva
 
