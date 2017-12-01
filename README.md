@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/JuIioCesar/CurriculumVitae/companies/Softtek/Assets/softtek.png" width="100" height="70">
 
-## Julio César Guzmán Villanueva
+**JULIO CÉSAR GUZMÁN VILLANUEVA**
 
 **Mobile Phone**: +525516859129
 
@@ -10,10 +10,14 @@
 
 ****
 
-### PROFILE
+**PROFILE**
+
+
 Julio is a software engineer first and iOS specialist second with one mission: Give great value to his clients. Seven years of experience on the mobile application development industry as an iOS developer
 
-### PROFESSIONAL EXPERIENCE
+**PROFESSIONAL EXPERIENCE**
+
+
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
 Julio has sound experience in software development and 7 years developing iOS applications. He's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
@@ -74,14 +78,18 @@ Apps:
 - [Mis AviSOS](https://apps.unam.mx/mis-avisos-2/)
 
 
-### ACHIEVEMENTS
+**ACHIEVEMENTS**
+
+
 **Runner up winner, Mexico City — 2015**
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
 
 Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketers at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions. Julio along with Francia performed a great pitch that impressed the judges and they decide to give us the prize for runner up winner at the Masters of Code hackathon in Mexico City. 
 
-### PERSONAL PROJECTS
+**PERSONAL PROJECTS**
+
+
 [**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
 
 _Swarm intelligence in your fingers._ Featured on the AppStore when first released. This application was developed with the first version of SpriteKit before GameplayKit was released, using Twitter API.
@@ -94,7 +102,9 @@ While studying Julio founded the biggest open source organization in his school.
 
 Developed before SpriteKit was released. This is the version 1.0 of Twitterminal
 
-### EDUCATION
+**EDUCATION**
+
+
 Computer Engineering at National Autonomous University of Mexico.
 
 Enrolled on the John Hopkins University Data Science Specialization on Coursera
@@ -103,18 +113,22 @@ Video game design diploma course at National Autonomous University of Mexico.
 
 Scrum Marter Certified by Scrum Study.
 
-### CERTIFICATIONS
+**CERTIFICATIONS**
+
 
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 Scrum Fundamentals Certified by Scrum Study
 
-### OPEN SOURCE CONTRIBUTIONS
+**OPEN SOURCE CONTRIBUTIONS**
+
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 - [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
-### OTHER INTERESTING REPOSITORIES
+**OTHER INTERESTING REPOSITORIES**
+
+
 **Artificial Intelligence:**
 - [Non-dominated Sorting Genetic Algorithm](https://github.com/unamfi/NSGA-II)
 - [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8)
@@ -141,6 +155,8 @@ Scrum Fundamentals Certified by Scrum Study
 
 
 **TOOLS**
+
+
 [Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
 
 
