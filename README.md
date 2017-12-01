@@ -114,7 +114,7 @@ Scrum Fundamentals Certified by Scrum Study
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 - [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
-### Other interesting repositories
+### OTHER INTERESTING REPOSITORIES
 **Artificial Intelligence:**
 - [Non-dominated Sorting Genetic Algorithm](https://github.com/unamfi/NSGA-II)
 - [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8)
