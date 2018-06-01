@@ -12,13 +12,25 @@
 Julio is a software engineer first and iOS specialist second with one mission: Give great value to his clients.
 
 ### Experience
-**iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - Today**
 
-Julio has sound experience in software development and 7 years developing iOS applications. He's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
+**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2014 - Today**
+
+Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. 
+
+Some of his responsibilities inside Bitso are:
+
+- His role as a Scrum master in his team 
+- Design the architecture of the iOS application
+- Design API's for Bitso applications
+- Give mantainance to open source repositories
+
+**iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
+
+Julio's had the opportunity to work onsite at our customer’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
 
 In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
 
-Some of his responsibilities inside Globant are:
+Some of his responsibilities inside Globant were:
 
 - Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
