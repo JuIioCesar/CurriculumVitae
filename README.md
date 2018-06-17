@@ -13,7 +13,7 @@ Julio is a software engineer first and iOS specialist second with one mission: G
 
 ### Experience
 
-**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2014 - Today**
+**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - Today**
 
 Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. 
 
