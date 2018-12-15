@@ -15,14 +15,20 @@ Julio is a software engineer first and iOS specialist second with one mission: G
 
 **Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - Today**
 
-Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. 
+Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018 he has mantained a legacy application and worked with his team on a new application.
 
-Some of his responsibilities inside Bitso are:
+Some of his responsibilities inside Bitso have been:
 
-- His role as a Scrum master in his team 
-- Design the architecture of the iOS application
-- Design API's for Bitso applications
-- Give mantainance to open source repositories
+- Scrum mentorship.
+- Managing the Scrum process inside the mobile team. 
+- Contribute in framework implementation inside Bitso.
+- Build and propose new features.
+- Design client's architectures.
+- Build innovative solutions to current technical problems.
+- Contribute in open and closed source projects.
+- Conduct technical talks inside the mobile team.
+- Make cultural changes within the organization.
+- Provide Level 3 support to API users.
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
 
@@ -34,15 +40,15 @@ Some of his responsibilities inside Globant were:
 
 - Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
-- Contribute on open and closed source proyects.
+- Contribute on open and closed source projects.
 - Build and propose new features.
 - Conduct technical reviews, audit projects and ensure best practices are followed.
-- Task Estimation.
-- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers
+- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers.
 - Participate in the hiring and interviewing process of technical profiles.
 - Propose business cases to U.S. clients.
 - Give tech talks inside Globant.
 - Share company culture with team mates.
+- Task Estimation.
 
 **iOS Developer, [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017**
 
