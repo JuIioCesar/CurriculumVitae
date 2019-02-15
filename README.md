@@ -154,6 +154,16 @@ Scrum Fundamentals Certified by Scrum Study
 - [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
 
+**Technology Stack**
+
+| Language        | Years of experience                      |
+|-----------| ----------|
+| Java     | 2          |
+| Python     | 2 |
+| Git     | 4 |
+| Swift   | 4                 |
+| Objective-C   | 8                 |
+
 **Favorite Books**
 
 The pragmatic programmer: From Journeyman to Master. 
