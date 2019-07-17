@@ -15,7 +15,7 @@ Julio is a software engineer first and iOS specialist second with one mission: G
 
 **iOS Engineer, [Avenue Code](https://www.avenuecode.com), San Francisco — 2019 - Today** 
 
-Julio has built MVP's for client's requirements. 
+Julio has built minimum viable products for client's requirements. 
 
 Some of his responsibilities inside Avenue Code have been:
 
