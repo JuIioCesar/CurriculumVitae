@@ -50,7 +50,7 @@ Some of his responsibilities inside Bitso were:
 
 Julio's had the opportunity to work onsite at client’s offices with applications that impact millions of users.
 
-In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
+In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He worked closely with the marketing team to achieve the client's growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
 
 Some of his responsibilities inside Globant were:
 
