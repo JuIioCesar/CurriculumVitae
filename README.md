@@ -30,7 +30,7 @@ Some of his responsibilities inside Avenue Code have been:
 
 **Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019**
 
-Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018 he has mantained a legacy application and worked with his team on a [new application](https://apps.apple.com/us/app/bitso/id1292836438). 
+Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018's first quarter he mantained the legacy application and during the other four quarter he and his team developed a [new cryptocurrency light wallet](https://apps.apple.com/us/app/bitso/id1292836438). 
 
 Some of his responsibilities inside Bitso were:
 
@@ -50,7 +50,7 @@ Some of his responsibilities inside Bitso were:
 
 Julio's had the opportunity to work onsite at client’s offices with applications that impact millions of users.
 
-In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He worked closely with the marketing team to achieve the client's growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
+In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. He worked on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He also colaborated closely with the marketing team to achieve the client's growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
 
 Some of his responsibilities inside Globant were:
 
