@@ -32,7 +32,7 @@ Some of his responsibilities inside Avenue Code have been:
 
 Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018 he has mantained a legacy application and worked with his team on a [new application](https://apps.apple.com/us/app/bitso/id1292836438). 
 
-Some of his responsibilities inside Bitso have been:
+Some of his responsibilities inside Bitso were:
 
 - Scrum mentorship.
 - Managing the Scrum process inside the mobile team. 
@@ -48,7 +48,7 @@ Some of his responsibilities inside Bitso have been:
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
 
-Julio's had the opportunity to work onsite at client’s offices. Globant is the world leading company in software development. A place where Julio has developed applications that have been subject of millions of downloads.
+Julio's had the opportunity to work onsite at client’s offices with applications that impact millions of users.
 
 In the year 2015 Julio contributed to a world class e-commerce application that had at the time over 10 million downloads and thousands of daily active users. Over the year 2016 Julio started working on a Growth hacking team that has been responsible of getting millions of downloads for the client's application. He Worked closely with the marketing team to achieve our growth goals; by being responsible of the tracking and the onboarding implementation on the iOS side.  
 
