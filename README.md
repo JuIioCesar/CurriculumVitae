@@ -1,10 +1,10 @@
 ## Julio César Guzmán Villanueva
 
-**Mobile Phone**: +525516859129
+**Mobile Phone**: +1 (628) 241-5452
 
 **Github**: [juiiocesar](http://github.com/juiiocesar)
 
-**e-mail**: julio.guzman@me.com
+**e-mail**: julio.cesar.guzman.villanueva@gmail.com
 
 ****
 
@@ -13,9 +13,24 @@ Julio is a software engineer first and iOS specialist second with one mission: G
 
 ### Experience
 
-**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - Today**
+**iOS Engineer, [Avenue Code](https://www.avenuecode.com), San Francisco — 2019 - Today** 
 
-Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018 he has mantained a legacy application and worked with his team on a new application.
+Julio has built MVP's for client's requirements. 
+
+Some of his responsibilities inside Avenue Code have been:
+
+- Build and propose new features.
+- Contribute in closed source projects.
+- Onboard developers into new frameworks.
+- Design client's architecture.
+- Provide Level 3 support to API users.
+- Conduct code reviews.
+- Conduct application demos with stakeholders.
+- Release internal frameworks.
+
+**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019**
+
+Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018 he has mantained a legacy application and worked with his team on a [new application](https://apps.apple.com/us/app/bitso/id1292836438). 
 
 Some of his responsibilities inside Bitso have been:
 
@@ -23,12 +38,13 @@ Some of his responsibilities inside Bitso have been:
 - Managing the Scrum process inside the mobile team. 
 - Contribute in framework implementation inside Bitso.
 - Build and propose new features.
-- Design client's architectures.
+- Design client's architecture.
 - Build innovative solutions to current technical problems.
 - Contribute in open and closed source projects.
 - Conduct technical talks inside the mobile team.
-- Make cultural changes within the organization.
+- Push cultural changes within the organization.
 - Provide Level 3 support to API users.
+- Contribute to design sprints. 
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
 
@@ -153,30 +169,3 @@ Scrum Fundamentals Certified by Scrum Study
 - [Xcode-Lex](https://github.com/unamfi/Xcode-Lex)
 - [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
-
-**Technology Stack**
-
-| Language        | Years of experience                      |
-|-----------| ----------|
-| Java     | 2          |
-| Python     | 2 |
-| Git     | 4 |
-| Swift   | 4                 |
-| Objective-C   | 8                 |
-
-**Favorite Books**
-
-The pragmatic programmer: From Journeyman to Master. 
-
-Refactoring: Improving the design of existing code.
-
-Introduction to algorithms
-
-Working effectively with legacy code
-
-Clean Architecture
-
-**Favorite tools**
-[Git](https://git-scm.com/), [Xcode](https://developer.apple.com/xcode/) , [Fastlane](http://fastlane.tools), [Wolfram Mathematica](https://www.wolfram.com/mathematica/), [JIRA](https://www.atlassian.com/software/jira), [Slack](https://slack.com), [chisel](https://github.com/facebook/chisel), [fpp](https://github.com/facebook/pathpicker/), [Sketch](https://www.sketchapp.com), [R Studio](https://www.rstudio.com)
-
-****
