@@ -15,18 +15,22 @@ Julio is a software engineer first and iOS specialist second with one mission: G
 
 **iOS Engineer, [Avenue Code](https://www.avenuecode.com), San Francisco — 2019 - Today** 
 
-Julio has built minimum viable products for client's requirements. 
+Some of his responsibilities inside Avenue Code include:
 
-Some of his responsibilities inside Avenue Code have been:
-
-- Build and propose new features.
-- Contribute in closed source projects.
-- Onboard developers into new frameworks.
-- Design client's architecture.
-- Provide Level 3 support to API users.
+- Participate in the hiring and interviewing process of technical profiles.
+- Design, build and propose solutions to legacy code bases.
+- Build MVP's according to client's requirements.
+- Conduct scrum and technical ceremonies.
+- Mentoring and onboarding developers.
+- Demo features with stakeholders.
+- Provide support to developers.
+- Support legacy code bases.
+- Manage release cycles.
 - Conduct code reviews.
-- Conduct application demos with stakeholders.
-- Release internal frameworks.
+
+He is accountable for:
+
+- App stability, ANR's and crashes on client's products
 
 **Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019**
 
@@ -34,17 +38,17 @@ Just before joining Bitso Julio started developing a [Bitso API client for iOS](
 
 Some of his responsibilities inside Bitso were:
 
-- Scrum mentorship.
-- Managing the Scrum process inside the mobile team. 
-- Contribute in framework implementation inside Bitso.
-- Build and propose new features.
-- Design client's architecture.
 - Build innovative solutions to current technical problems.
-- Contribute in open and closed source projects.
+- Contribute in framework implementation inside Bitso.
+- Managing the Scrum process inside the mobile team.
 - Conduct technical talks inside the mobile team.
+- Contribute in open and closed source projects.
 - Push cultural changes within the organization.
 - Provide Level 3 support to API users.
+- Build and propose new features.
+- Design client's architecture.
 - Contribute to design sprints. 
+- Scrum mentorship.
 
 **iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
 
@@ -54,16 +58,16 @@ In the year 2015 Julio contributed to a world class e-commerce application that 
 
 Some of his responsibilities inside Globant were:
 
+- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers.
+- Conduct technical reviews, audit projects and ensure best practices are followed.
+- Participate in the hiring and interviewing process of technical profiles.
 - Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
 - Contribute on open and closed source projects.
-- Build and propose new features.
-- Conduct technical reviews, audit projects and ensure best practices are followed.
-- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers.
-- Participate in the hiring and interviewing process of technical profiles.
 - Propose business cases to U.S. clients.
-- Give tech talks inside Globant.
 - Share company culture with team mates.
+- Conduct tech talks inside Globant.
+- Build and propose new features.
 - Task Estimation.
 
 **iOS Developer, [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017**
@@ -85,7 +89,7 @@ Related App:
 
 **iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
 
-Worked on-site with a mexican client. Julio developed a news application according to the client's specification.
+Worked on-site with a Latin American client. Julio developed a news application according to the client's specification.
 
 App: 
 
@@ -110,7 +114,7 @@ Apps:
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
 
-Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketers at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions. Julio along with Francia performed a great pitch that impressed the judges and they decide to give us the prize for runner up winner at the Masters of Code hackathon in Mexico City. 
+Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketing specialists at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions at the Masters of Code hackathon in Mexico City. 
 
 ### Personal projects
 [**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
@@ -119,7 +123,7 @@ _Swarm intelligence in your fingers._ Featured on the AppStore when first releas
 
 [**UNAM FI's Open Source organization**](https://github.com/unamfi) **- 2014**
 
-While studying Julio founded the biggest open source organization in his school. The project is currently mantained by [Juan Pablo Flores](https://github.com/juanpflores/) a Github campus expert.    
+Created on a weekend the biggest open source organization in his school. The project is currently mantained by [Juan Pablo Flores](https://github.com/juanpflores/) a Github campus expert.
 
 [**Flock - Twitter Client**](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8) **- 2013**
 
@@ -132,7 +136,7 @@ Enrolled on the John Hopkins University Data Science Specialization on Coursera
 
 Video game design diploma course at National Autonomous University of Mexico.
 
-Scrum Marter Certified by Scrum Study.
+Scrum Master Certified by Scrum Study.
 
 ### Certifications 
 
@@ -140,12 +144,8 @@ IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 Scrum Fundamentals Certified by Scrum Study
 
-### Open Source Contributions
+### Personal Projects
 
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking)
-- [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
-
-### Other interesting repositories
 **Artificial Intelligence:**
 - [Non-dominated Sorting Genetic Algorithm](https://github.com/unamfi/NSGA-II)
 - [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8)
@@ -156,13 +156,16 @@ Scrum Fundamentals Certified by Scrum Study
 - [Simulated annealing algorithm](https://github.com/unamfi/SA)
 - [Davis Putnam Logemann Loveland Algorithm](https://github.com/unamfi/DPLL)
 
-**Image processing**
+**Image processing projects**
 - [DFT Convolution](https://github.com/unamfi/DFT-Convolution)
 - [Spatial Filtering](https://github.com/unamfi/Spatial-Filtering)
 - [Human eye performance notebook](https://github.com/unamfi/Human-eye-performance)
 
-**Data Science**
+**Third party framework contributions**
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+- [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
+**Data Science projects**
 - [Berkeley's Renewable Energy and Appropriate Laboratory Application](https://github.com/JuIioCesar/Renewable-Energy-and-Appropriate-Laboratory)
 
 **Xcode:**
