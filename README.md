@@ -132,11 +132,7 @@ Developed before SpriteKit was released. This is the version 1.0 of Twitterminal
 ### Education
 Computer Engineering at National Autonomous University of Mexico.
 
-Enrolled on the John Hopkins University Data Science Specialization on Coursera
-
 Video game design diploma course at National Autonomous University of Mexico.
-
-Scrum Master Certified by Scrum Study.
 
 ### Certifications 
 
