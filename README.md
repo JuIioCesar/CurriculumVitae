@@ -70,13 +70,10 @@ Some of his responsibilities inside Globant were:
 - Conduct tech talks inside Globant.
 - Build and propose new features.
 
-**iOS Developer, [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017**
-
-
-**iOS Developer, [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com) - [Close5](https://itunes.apple.com/us/app/close5-buy-sell-stuff-locally/id910559026?mt=8), Mexico City — 2015 - 2016**
-
-
-**iOS Developer, [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com), Mexico City — 2014 - 2015** 
+Some clients he colaborated with include but are not limited to:
+- [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017
+- [Close5](https://itunes.apple.com/us/app/close5-buy-sell-stuff-locally/id910559026?mt=8), Mexico City — 2015 - 2016
+- [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com), Mexico City — 2014 - 2015 
 
 
 **iOS Developer, Global Human Services, Mexico City — 2014**
