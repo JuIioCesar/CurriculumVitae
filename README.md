@@ -9,7 +9,7 @@
 ****
 
 ### Profile
-Julio is a software engineer first and iOS specialist second with one mission: Give great value to his clients.
+Software engineer.
 
 ### Experience
 
@@ -19,9 +19,10 @@ Some of his responsibilities inside Avenue Code include:
 
 - Participate in the hiring and interviewing process of technical profiles.
 - Design, build and propose solutions to legacy code bases.
+- Define interview questions for candidate selection.
 - Build MVP's according to client's requirements.
 - Conduct scrum and technical ceremonies.
-- Mentoring and onboarding developers.
+- Mentoring and supporting developers.
 - Demo features with stakeholders.
 - Provide support to developers.
 - Support legacy code bases.
@@ -29,8 +30,8 @@ Some of his responsibilities inside Avenue Code include:
 - Conduct code reviews.
 
 He is accountable for:
-
-- App stability, ANR's and crashes on client's products
+- App stability.
+- Continous deployment.
 
 **Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019**
 
@@ -68,7 +69,6 @@ Some of his responsibilities inside Globant were:
 - Share company culture with team mates.
 - Conduct tech talks inside Globant.
 - Build and propose new features.
-- Task Estimation.
 
 **iOS Developer, [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017**
 
@@ -123,7 +123,7 @@ _Swarm intelligence in your fingers._ Featured on the AppStore when first releas
 
 [**UNAM FI's Open Source organization**](https://github.com/unamfi) **- 2014**
 
-Created on a weekend the biggest open source organization in his school. The project is currently mantained by [Juan Pablo Flores](https://github.com/juanpflores/) a Github campus expert.
+Created on a weekend the biggest open source organization in his school. The organization and it's onboarding project is currently being used by classes at the engineering faculty of UNAM.
 
 [**Flock - Twitter Client**](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8) **- 2013**
 
