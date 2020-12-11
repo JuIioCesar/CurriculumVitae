@@ -1,4 +1,4 @@
-## Julio César Guzmán Villanueva
+# Julio César Guzmán Villanueva
 
 **Mobile Phone**: +1 (628) 241-5452
 
@@ -8,12 +8,12 @@
 
 ****
 
-### Profile
+## Profile
 Software engineer.
 
-### Experience
+## Experience
 
-**iOS Engineer, [Avenue Code](https://www.avenuecode.com), San Francisco — 2019 - Today** 
+### iOS Engineer, [Avenue Code](https://www.avenuecode.com), San Francisco — 2019 - Today
 
 Some of his responsibilities inside Avenue Code include:
 
@@ -33,7 +33,7 @@ He is accountable for:
 - App stability.
 - Continous deployment.
 
-**Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019**
+### Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019
 
 Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018's first quarter he mantained the legacy application and during the other four quarter he and his team developed a [new cryptocurrency light wallet](https://apps.apple.com/us/app/bitso/id1292836438). 
 
@@ -51,7 +51,7 @@ Some of his responsibilities inside Bitso were:
 - Contribute to design sprints. 
 - Scrum mentorship.
 
-**iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018**
+### iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018
 
 Julio's had the opportunity to work onsite at client’s offices with applications that impact millions of users.
 
@@ -76,7 +76,7 @@ Some clients he colaborated with include but are not limited to:
 - [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com), Mexico City — 2014 - 2015 
 
 
-**iOS Developer, Global Human Services, Mexico City — 2014**
+### iOS Developer, Global Human Services, Mexico City — 2014
 
 For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to the [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)'s features. He managed the code quality, end the repositories inside the mobile area of the company.
 
@@ -84,7 +84,7 @@ Related App:
 
 - [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)
 
-**iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014**
+### iOS Developer, [Dresden Partners](http://www.dresdenpartners.com), Mexico City — 2014
 
 Worked on-site with a Latin American client. Julio developed a news application according to the client's specification.
 
@@ -92,11 +92,11 @@ App:
 
 - [Centro Integral de Monitoreo de Medios](https://itunes.apple.com/us/app/cimm/id844331719?mt=8)
 
-**iOS Developer, [Freelance](http://julio.work), Mexico City — 2012**
+### iOS Developer, [Freelance](http://julio.work), Mexico City — 2012
 
 As a freelance he sold and developed an application that tracked the beer production process on a world class factory.
 
-**iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012**
+### iOS Developer, [UNAM Mobile Laboratory](http://mobile.unam.mx), Mexico City — 2011 - 2012
 
 Julio started in iOS developing numerous applications that included features like augmented reality, real time streaming and tracking. Right after he became a senior developer he started giving iOS tech talks. He even gave one at the Mobile University Congress at National Autonomous University of Mexico. After leaving the laboratory Julio created the [UNAM Mobile open source organization](https://github.com/UNAMMobile) and the [UNAM Engineering open source organization](https://github.com/unamfi). These are organizations that up to today stay relevant in the University.
 
@@ -106,40 +106,40 @@ Apps:
 - [Descarga Cultura UNAM](https://itunes.apple.com/mx/app/descarga-cultura-unam/id950397556?mt=8)
 - [Mis AviSOS](https://apps.unam.mx/mis-avisos-2/)
 
-### Achievements
-**Runner up winner, Mexico City — 2015**
+## Achievements
+### Runner up winner, Mexico City — 2015
 
 At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
 
-Julio took the leadership of a team integrated of 2 iOS developers, 1 web developer and 2 marketing specialists at the start of the hackathon. Together they worked all night to make a wallet that allowed the users to perform payments and transactions at the Masters of Code hackathon in Mexico City. 
+Julio led an interdisciplinary team at the start of the hackathon. Together they worked 48hrs to make a wallet that allowed the users to perform payments and transactions at the Masters of Code hackathon in Mexico City. 
 
-### Personal projects
-[**Twitterminal**](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) **- 2014**
+## Personal projects
+### [Twitterminal](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8) - 2014
 
 _Swarm intelligence in your fingers._ Featured on the AppStore when first released. This application was developed with the first version of SpriteKit before GameplayKit was released, using Twitter API.
 
-[**UNAM FI's Open Source organization**](https://github.com/unamfi) **- 2014**
+### [UNAM FI's Open Source organization](https://github.com/unamfi) - 2014
 
 Created on a weekend the biggest open source organization in his school. The organization and it's onboarding project is currently being used by classes at the engineering faculty of UNAM.
 
-[**Flock - Twitter Client**](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8) **- 2013**
+### [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8) - 2013
 
 Developed before SpriteKit was released. This is the version 1.0 of Twitterminal
 
-### Education
+## Education
 Computer Engineering at National Autonomous University of Mexico.
 
 Video game design diploma course at National Autonomous University of Mexico.
 
-### Certifications 
+## Certifications 
 
 IBM Certified Academic Associate - DB2 9 Database and Application Fundamentals
 
 Scrum Fundamentals Certified by Scrum Study
 
-### Personal Projects
+## Personal Projects
 
-**Artificial Intelligence:**
+### Algorithms
 - [Non-dominated Sorting Genetic Algorithm](https://github.com/unamfi/NSGA-II)
 - [Flock - Twitter Client](https://itunes.apple.com/us/app/flock-twitter-client/id544536195?mt=8)
 - [Twitterminal](https://itunes.apple.com/us/app/twitterminal/id788443372?mt=8)
@@ -149,19 +149,15 @@ Scrum Fundamentals Certified by Scrum Study
 - [Simulated annealing algorithm](https://github.com/unamfi/SA)
 - [Davis Putnam Logemann Loveland Algorithm](https://github.com/unamfi/DPLL)
 
-**Image processing projects**
+### Image processing projects
 - [DFT Convolution](https://github.com/unamfi/DFT-Convolution)
 - [Spatial Filtering](https://github.com/unamfi/Spatial-Filtering)
 - [Human eye performance notebook](https://github.com/unamfi/Human-eye-performance)
 
-**Third party framework contributions**
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking)
-- [Ray wenderlich's Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
-
-**Data Science projects**
+### Data Science projects
 - [Berkeley's Renewable Energy and Appropriate Laboratory Application](https://github.com/JuIioCesar/Renewable-Energy-and-Appropriate-Laboratory)
 
-**Xcode:**
+### Tooling
 - [Xcode-Lex](https://github.com/unamfi/Xcode-Lex)
 - [Xcode-Jess](https://github.com/unamfi/Xcode-Jess)
 - [Xcode CLIPS](https://github.com/unamfi/Xcode-CLIPS)
