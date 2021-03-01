@@ -17,38 +17,31 @@ Software engineer.
 
 Some of his responsibilities inside Avenue Code include:
 
-- Participate in the hiring and interviewing process of technical profiles.
 - Design, build and propose solutions to legacy code bases.
 - Define interview questions for candidate selection.
-- Build MVP's according to client's requirements.
 - Conduct scrum and technical ceremonies.
-- Mentoring and supporting developers.
 - Demo features with stakeholders.
 - Provide support to developers.
 - Support legacy code bases.
 - Manage release cycles.
 - Conduct code reviews.
 
-He is accountable for:
-- App stability.
-- Continous deployment.
-
 ### Software Engineer, [Bitso](https://www.bitso.com/), Mexico City — 2018 - 2019
 
-Just before joining Bitso Julio started developing a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). A little after that, he got recruited to work with the Bitso Team. During 2018's first quarter he mantained the legacy application and during the other four quarter he and his team developed a [new cryptocurrency light wallet](https://apps.apple.com/us/app/bitso/id1292836438). 
+Just before joining Bitso Julio started developed a [Bitso API client for iOS](https://github.com/JuIioCesar/Bitso). Aftwerwards he started working with the Bitso Team. During 2018's first quarter he mantained the legacy application and during the other four quarter he and his team developed a [new cryptocurrency light wallet](https://apps.apple.com/us/app/bitso/id1292836438). 
 
 Some of his responsibilities inside Bitso were:
 
-- Build innovative solutions to current technical problems.
 - Contribute in framework implementation inside Bitso.
 - Managing the Scrum process inside the mobile team.
 - Conduct technical talks inside the mobile team.
 - Contribute in open and closed source projects.
 - Push cultural changes within the organization.
-- Provide Level 3 support to API users.
+- Build solutions to current technical problems.
 - Build and propose new features.
 - Design client's architecture.
 - Contribute to design sprints. 
+- Provide support to API users.
 - Scrum mentorship.
 
 ### iOS Developer Analyst, [Globant](https://www.globant.com/), Mexico City — 2014 - 2018
@@ -59,26 +52,20 @@ In the year 2015 Julio contributed to a world class e-commerce application that 
 
 Some of his responsibilities inside Globant were:
 
-- Stay up to date with state of the art technology trends to propose new features and provide value and innovative solutions to our customers.
+- Stay up to date with state of the art technology trends to propose new features and provide value and solutions to our customers.
 - Conduct technical reviews, audit projects and ensure best practices are followed.
 - Participate in the hiring and interviewing process of technical profiles.
-- Propose innovative solutions to current technical problems.
 - Define architecture strategies and implementations.
+- Propose solutions to current technical problems.
 - Contribute on open and closed source projects.
 - Propose business cases to U.S. clients.
 - Share company culture with team mates.
 - Conduct tech talks inside Globant.
 - Build and propose new features.
 
-Some clients he colaborated with include but are not limited to:
-- [The Walt Disney Co.](http://www.disney.com), Mexico City — 2017
-- [Close5](https://itunes.apple.com/us/app/close5-buy-sell-stuff-locally/id910559026?mt=8), Mexico City — 2015 - 2016
-- [eBay Classifieds Group](https://www.ebayclassifiedsgroup.com), Mexico City — 2014 - 2015 
-
-
 ### iOS Developer, Global Human Services, Mexico City — 2014
 
-For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to the [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)'s features. He managed the code quality, end the repositories inside the mobile area of the company.
+For Vive Claro's products Julio developed an iOS framework to using the real time streaming protocol. That is the equivalent to the [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer)'s features.
 
 Related App: 
 
@@ -109,7 +96,7 @@ Apps:
 ## Achievements
 ### Runner up winner, Mexico City — 2015
 
-At the Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. (2015)
+Runner up winner at Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. 
 
 Julio led an interdisciplinary team at the start of the hackathon. Together they worked 48hrs to make a wallet that allowed the users to perform payments and transactions at the Masters of Code hackathon in Mexico City. 
 
