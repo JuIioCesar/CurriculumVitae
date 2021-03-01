@@ -96,7 +96,7 @@ Apps:
 ## Achievements
 ### Runner up winner, Mexico City — 2015
 
-Runner up winner at Mastercard's [Masters of Code hackathon](http://mastersofcode.com) in Mexico City. 
+Runner up winner at Mastercard's [Masters of Code hackathon](https://newsroom.mastercard.com/videos/masters-of-code-hackathon-in-mexico-city/) in Mexico City. 
 
 Julio led an interdisciplinary team at the start of the hackathon. Together they worked 48hrs to make a wallet that allowed the users to perform payments and transactions at the Masters of Code hackathon in Mexico City. 
 
