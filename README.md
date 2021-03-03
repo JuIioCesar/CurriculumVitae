@@ -17,7 +17,7 @@ Software engineer.
 
 Some of his responsibilities inside Avenue Code include:
 
-- Design, build and propose solutions to legacy code bases.
+- Design, build and propose solutions to user stories.
 - Define interview questions for candidate selection.
 - Conduct scrum and technical ceremonies.
 - Demo features with stakeholders.
